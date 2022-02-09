@@ -1,0 +1,117 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{karpenko}
+\selectlanguageifdefined{russian}
+Карпенко~А.~П. Современные алгоритмы
+  поисковой оптимизации.
+\newblock МГТУ им. Н. Э. Баумана, 2017.
+\newblock {с.}~450.
+
+\bibitem{eremeev}
+\selectlanguageifdefined{russian}
+Еремеев~А.~В. Популяционные алгоритмы~//
+  Федеральное государственное бюджетное
+  образовательное учреждение высшего
+  образования «Омский государственный
+  университет им. Ф. М. Достоевского».
+\newblock 2016.
+\newblock {С.}~10---40.
+
+\bibitem{vodolaz}
+\selectlanguageifdefined{russian}
+Водолазский~И.~А., Егоров~А.~С. Роевой
+  интеллект и его наиболее
+  распространенные методы реализации~//
+  Москва, Молодой ученый №4.
+\newblock 2017.
+\newblock {С.}~1---8.
+
+\bibitem{nogin}
+\selectlanguageifdefined{russian}
+Ногин~В.~Д. Принятие решений в
+  многокритериальной среде.
+\newblock Москва, <<Физматлит>>, 2005.
+\newblock {с.}~142.
+
+\bibitem{shtovba}
+\selectlanguageifdefined{russian}
+Штовба~С.~Д. Муравьиные алгоритмы~// Донецк,
+  Exponenta pro: математика в приложениях.
+\newblock 2015.
+\newblock {С.}~1---8.
+
+\bibitem{dervis}
+\selectlanguageifdefined{english}
+Karaboga~D., Basturk~B. A powerful and efficient algorithm for numerical
+  function optimization: artificial bee colony algorithm~// Kayseri, Journal of
+  global optimization.
+\newblock 2007.
+\newblock P.~459---471.
+
+\bibitem{yang}
+\selectlanguageifdefined{english}
+Yang~X.~S. Nature-Inspired Algorithms and Applied Optimization.
+\newblock London, Springer International Publishing, 2018.
+\newblock p.~313.
+
+\bibitem{kur}
+\selectlanguageifdefined{russian}
+Курейчик~В.~М., Кажаров~А.~А. Использование
+  пчелиных алгоритмов~// Известия Южного
+  федерального университета. Технические
+  науки.
+\newblock 2010.
+\newblock {С.}~1---7.
+
+\bibitem{dusan}
+\selectlanguageifdefined{english}
+Teodorovi~D., Dellorco~M. Bee colony optimization–a cooperative learning
+  approach to complex transportation problems.
+\newblock Publishing House of the Polish Operational and System Research, 2005.
+\newblock P.~51---60.
+
+\bibitem{ershov1}
+\selectlanguageifdefined{russian}
+Ершов~Н.~М., Полуян~С.~В. Самоадаптация в
+  алгоритмах роевой оптимизации~// Вестник
+  Российского университета дружбы народов.
+\newblock 2011.
+\newblock {С.}~1---14.
+
+\bibitem{leonov}
+\selectlanguageifdefined{russian}
+Леонов~А.~В., Литвинов~Г.~А. Применение
+  алгоритма пчелиной колонии~//
+  Ростов-на-Дону, Инженерный вестник Дона.
+\newblock 2018.
+\newblock {С.}~1---11.
+
+\bibitem{yang2}
+\selectlanguageifdefined{english}
+Yang~X.~S. Nature-Inspired Metaheuristic Algorithms.
+\newblock London, Springer International Publishing, 2010.
+\newblock p.~206.
+
+\bibitem{jason}
+\selectlanguageifdefined{english}
+Brownlee~J. Clever Algorithms: Nature-Inspired Programming Recipes.
+\newblock Austin, Lulu, 2011.
+\newblock p.~438.
+
+\bibitem{gorbunov}
+\selectlanguageifdefined{russian}
+Ходашинский~И.~А., Горбунов~И.~В. Алгоритмы
+  муравьиной и пчелиной колонии~// Доклады
+  Томского государственного университета
+  систем управления и радиоэлектроники.
+\newblock 2017.
+\newblock {С.}~1---6.
+
+\end{thebibliography}
