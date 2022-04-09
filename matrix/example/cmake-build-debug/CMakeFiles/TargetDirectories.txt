@@ -1,0 +1,3 @@
+/Users/gk/Study/AA/lab_04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gk/Study/AA/lab_04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gk/Study/AA/lab_04/cmake-build-debug/CMakeFiles/lab_04.dir

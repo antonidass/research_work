@@ -1,0 +1,290 @@
+
+/proc/2449/cmdline:
+===========================
+./main.exe
+
+/proc/2449/environ:
+===========================
+XDG_VTNR=7
+XDG_SESSION_ID=c1
+CLUTTER_IM_MODULE=xim
+SELINUX_INIT=YES
+XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/ubuntu
+SESSION=ubuntu
+GPG_AGENT_INFO=/run/user/1000/keyring-0lrTwq/gpg:0:1
+TERM=xterm
+SHELL=/bin/bash
+XDG_MENU_PREFIX=gnome-
+VTE_VERSION=3409
+WINDOWID=33554443
+UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1000/1229
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-0lrTwq
+GTK_MODULES=overlay-scrollbar:unity-gtk-module
+USER=ubuntu
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+SSH_AUTH_SOCK=/run/user/1000/keyring-0lrTwq/ssh
+SESSION_MANAGER=local/ubuntu-utm:@/tmp/.ICE-unix/1492,unix/ubuntu-utm:/tmp/.ICE-unix/1492
+DEFAULTS_PATH=/usr/share/gconf/ubunt
+/proc/2449/environ.default.path
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+DESKTOP_SESSION=ubuntu
+QT_IM_MODULE=ibus
+QT_QPA_PLATFORMTHEME=appmenu-qt5
+JOB=dbus
+PWD=/home/ubuntu/Documents/labs/lab_04/example
+XMODIFIERS=@im=ibus
+GNOME_KEYRING_PID=1439
+LANG=en_US.UTF-8
+GDM_LANG=en_US
+MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+IM_CONFIG_PHASE=1
+COMPIZ_CONFIG_PROFILE=ubuntu
+GDMSESSION=ubuntu
+SESSIONTYPE=gnome-session
+XDG_SEAT=seat0
+HOME=/home/ubuntu
+SHLVL=1
+LANGUAGE=en_US
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+LOGNAME=ubuntu
+COMPIZ_BIN_PATH=/usr/bin/
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/
+QT4_IM_MODULE=xim
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-eoLPvjOyI8
+LESSOPEN=| /usr/bin/lesspipe %s
+INSTANCE=
+TEXTDOMAIN=im-config
+XDG_RUNTIME_DIR=/run/user/1000
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=Unity
+GTK_IM_MODULE=ibus
+LESSCLOSE=/usr/bin/lesspipe %s %s
+TEXTDOMAINDIR=/usr/share/locale/
+COLORTERM=gnome-terminal
+XAUTHORITY=/home/ubuntu/.Xauthority
+_=./main.exe
+OLDPWD=/home/ubuntu/Documents/labs/lab_04
+35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+SSH_AUTH_SOCK=/run/user/1000/keyring-0lrTwq/ssh
+SESSION_MANAGER=local/ubuntu-utm:@/tmp/.ICE-unix/1492,unix/ubuntu-utm:/tmp/.ICE-unix/1492
+DEFAULTS_PATH=/usr/share/gconf/ubunt
+/proc/2449/environ
+/proc/2449/fd/:
+===========================
+0 -> /dev/pts/1
+1 -> /dev/pts/1
+2 -> /dev/pts/1
+
+/proc/2449/stat:
+===========================
+pid = 2449
+ID процесса
+comm = (main.exe)
+Имя файла
+state = S
+Состояние процесса
+ppid = 2009
+ID родительского процесса
+pgrp = 2449
+ID группы процесса
+session = 2009
+ID сессии процесса
+tty_nr = 34817
+управляющий терминал процесса
+tpgid = 2449
+ID внешней группы процессов управляющего терминала
+flags = 1077952512
+Флаги ядра процесса
+minflt = 204360
+Количество минорных ошибок процесса (Минорные ошибки не включают ошибки загрузки страниц памяти c диска)
+cminflt = 0
+Количество минорных ошибок дочерних процессов (Минорные ошибки не включают ошибки загрузки страниц памяти c диска)
+majflt = 5
+Количество Мажоных ошибок процесса
+cmajflt = 0
+Количество Мажоных ошибок дочерних процессов процесса
+utime = 7719
+Количество времени, в течение которого этот процесс исполнялся в пользовательском режиме
+stime = 206
+Количество времени, в течение которого этот процесс исполнялся в режиме ядра
+cutime = 0
+Количество времени, в течение которого дети этого процесса исполнялись в пользовательском режиме
+cstime = 0
+Количество времени, в течение которого дети этого процесса были запланированы в режиме ядра
+priority = 20
+Приоритет процесса
+nice = 0
+уровень nice процесса, то есть пользовательский приоритет процесса (-20 - высокий, 19 - низкий)
+num_threads = 5
+Количество потоков
+itrealvalue = 0
+Время в тиках до следующего SIGALRM отправленного в процесс из-за интервального таймера
+starttime = 13047
+Время, прошедшее c момента загрузки системы, когда процесс был запущен
+vsize = 868270080
+Объем виртуальной памяти в байтах
+rss = 200278
+Resident Set (Memory) Size: Количество страниц процесса в физической памяти
+rsslim = 18446744073709551615
+Текущий предел в байтах для RSS процесса
+startcode = 4194304
+Адрес, над которым может работать текст программы
+endcode = 4224021
+Адрес, до которого может работать текст программы
+startstack = 140727082861088
+Адрес начала стека
+kstkesp = 140727082860432
+Текущее значение ESP (Stack pointer)
+kstkeip = 140026920330843
+Текущее значение EIP (instruction pointer)
+pending = 0
+Битовая карта отложенных сигналов, отображаемое в виде десятичного числа
+blocked = 0
+Битовая карта заблокированных сигналов, отображаемое в виде десятичного числа
+sigign = 0
+Битовая карта игнорированных сигналов, отображаемое в виде десятичного числа
+sigcatch = 0
+Битовая карта пойманных сигналов, отображаемое в виде десятичного числа
+wchan = 0
+Адрес ядрёной функции, где процесс находится в состоянии сна
+nswap = 0
+Количество страниц, поменявшихся местами
+cnswap = 0
+Накопительный своп для дочерних процессов
+exit_signal = 17
+Сигнал, который будет послан родителю, когда процесс будет завершен
+processor = 1
+Номер процессора, на котором происходило последнее выполнение
+rt_priority = 0
+Приоритет планирования в реальном времени - число в диапазоне от 1 до 99 для процессов, запланированных в соответствии c политикой реального времени
+policy = 0
+Политика планирования
+blkio_ticks = 4
+Общие блочные задержки ввода/вывода
+gtime = 0
+Гостевое время процесса
+cgtime = 0
+Гостевое время дочерних процессов
+start_data = 6323656
+Адрес, над которым размещаются инициализированные и неинициализированные данные программы (BSS)
+end_data = 6324560
+Адрес, под которым размещаются инициализированные и неинициализированные данные программы (BSS)
+start_brk = 7016448
+Адрес, выше которого куча программ может быть расширена c помощью brk (станавливает конец сегмента данных в значение, указанное в аргументе end_data_segment, когда это значение является приемлимым, система симулирует нехватку памяти и процесс не достигает своего максимально возможного размера сегмента данных)
+arg_start = 140727082869597
+Адрес, над которым размещаются аргументы командной строки программы (argv)
+arg_end = 140727082869608
+Адрес, под которым размещаются аргументы командной строки программы (argv)
+env_start = 140727082869608
+Адрес, над которым размещена программная среда
+env_end = 140727082872813
+Адрес, под которым размещена программная среда
+exit_code = 0
+
+Состояние выхода потока в форме, сообщаемой waitpid
+
+/proc/2449/statm:
+===========================
+size = 211980
+общее число страниц выделенное процессу в виртуальной памяти
+resident = 200278
+количество страниц, загруженных в физическую памятьshared
+количество общих резедентных страниц = 185
+trs
+количество страниц кода = 8
+lrs
+количество страниц библиотеки = 0
+drs
+количество страниц данных/стека = 208372
+dt
+dirty pages - данные для записи находятся в кэше страниц, но требуется к первоначальной записи на носитель = 0
+9
+(null)
+
+/proc/2449/cwd:
+===========================
+/home/ubuntu/Documents/labs/lab_04/example
+
+/proc/2449/exe:
+===========================
+/home/ubuntu/Documents/labs/lab_04/example/main.exe
+
+/proc/2449/maps:
+===========================
+00400000-00408000 r-xp 00000000 08:01 320916                             /home/ubuntu/Documents/labs/lab_04/example/main.exe
+00607000-00608000 r--p 00007000 08:01 320916                             /home/ubuntu/Documents/labs/lab_04/example/main.exe
+00608000-00609000 rw-p 00008000 08:01 320916                             /home/ubuntu/Documents/labs/lab_04/example/main.exe
+006b1000-31454000 rw-p 00000000 00:00 0                                  [heap]
+7f5a70978000-7f5a70979000 ---p 00000000 00:00 0 
+7f5a70979000-7f5a71179000 rw-p 00000000 00:00 0 
+7f5a71179000-7f5a7117a000 ---p 00000000 00:00 0 
+7f5a7117a000-7f5a7197a000 rw-p 00000000 00:00 0 
+7f5a7197a000-7f5a7197b000 ---p 00000000 00:00 0 
+7f5a7197b000-7f5a7217b000 rw-p 00000000 00:00 0 
+7f5a7217b000-7f5a7217c000 ---p 00000000 00:00 0 
+7f5a7217c000-7f5a7297c000 rw-p 00000000 00:00 0 
+7f5a8e9b4000-7f5a8eb72000 r-xp 00000000 08:01 435043                     /lib/x86_64-linux-gnu/libc-2.19.so
+7f5a8eb72000-7f5a8ed72000 ---p 001be000 08:01 435043                     /lib/x86_64-linux-gnu/libc-2.19.so
+7f5a8ed72000-7f5a8ed76000 r--p 001be000 08:01 435043                     /lib/x86_64-linux-gnu/libc-2.19.so
+7f5a8ed76000-7f5a8ed78000 rw-p 001c2000 08:01 435043                     /lib/x86_64-linux-gnu/libc-2.19.so
+7f5a8ed78000-7f5a8ed7d000 rw-p 00000000 00:00 0 
+7f5a8ed7d000-7f5a8ed96000 r-xp 00000000 08:01 435027                     /lib/x86_64-linux-gnu/libpthread-2.19.so
+7f5a8ed96000-7f5a8ef95000 ---p 00019000 08:01 435027                     /lib/x86_64-linux-gnu/libpthread-2.19.so
+7f5a8ef95000-7f5a8ef96000 r--p 00018000 08:01 435027                     /lib/x86_64-linux-gnu/libpthread-2.19.so
+7f5a8ef96000-7f5a8ef97000 rw-p 00019000 08:01 435027                     /lib/x86_64-linux-gnu/libpthread-2.19.so
+7f5a8ef97000-7f5a8ef9b000 rw-p 00000000 00:00 0 
+7f5a8ef9b000-7f5a8efb1000 r-xp 00000000 08:01 400094                     /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f5a8efb1000-7f5a8f1b0000 ---p 00016000 08:01 400094                     /lib/x86_64-linux-gnu/libgcc_s.so
+.1
+7f5a8f1b0000-7f5a8f1b1000 rw-p 00015000 08:01 400094                     /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f5a8f1b1000-7f5a8f2b6000 r-xp 00000000 08:01 435030                     /lib/x86_64-linux-gnu/libm-2.19.so
+7f5a8f2b6000-7f5a8f4b5000 ---p 00105000 08:01 435030                     /lib/x86_64-linux-gnu/libm-2.19.so
+7f5a8f4b5000-7f5a8f4b6000 r--p 00104000 08:01 435030                     /lib/x86_64-linux-gnu/libm-2.19.so
+7f5a8f4b6000-7f5a8f4b7000 rw-p 00105000 08:01 435030                     /lib/x86_64-linux-gnu/libm-2.19.so
+7f5a8f4b7000-7f5a8f59d000 r-xp 00000000 08:01 10266                      /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.19
+7f5a8f59d000-7f5a8f79c000 ---p 000e6000 08:01 10266                      /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.19
+7f5a8f79c000-7f5a8f7a4000 r--p 000e5000 08:01 10266                      /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.19
+7f5a8f7a4000-7f5a8f7a6000 rw-p 000ed000 08:01 10266                      /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.19
+7f5a8f7a6000-7f5a8f7bb000 rw-p 00000000 00:00 0 
+7f5a8f7bb000-7f5a8f7de000 r-xp 00000000 08:01 435040                     /lib/x86_64-linux-gnu/ld-2.19.so
+7f5a8f9c1000-7f5a8f9c7000 rw-p 00000000 00:00 0 
+7f5a8f9db000-7f5a8f9dd000 rw-p 00000000 00:00 0 
+7f5a8f9dd000-7f5a8f9de000 r--p 00022000 08:01 435040                     /lib/x86_64-linux-gnu/ld-2.19.so
+7f5a8f9de000-7f5a8f9df000 rw-p 00023000 08:01 435040                     /lib/x86_64-linux-gnu/ld-2.19.so
+7f5a8f9df000-7f5a8f9e0000 rw-p 00000000 00:00 0 
+7ffd93c6e000-7ffd93c8f000 rw-p 00000000 00:00 0                          [stack]
+7ffd93d30000-7ffd93d33000 r--p 00000000 00:00 0                          [vvar]
+7ffd93d33000-7ffd93d35000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+
+
+/proc/2449/root:
+===========================
+/
+
+/proc/2449/comm:
+===========================
+main.exe
+
+/proc/2449/io:
+===========================
+rchar: 5314
+wchar: 1090
+syscr: 22
+syscw: 47
+read_bytes: 454656
+write_bytes: 0
+cancelled_write_bytes: 0
+
+/proc/2449/task:
+===========================
+{2449}
+{5726}
+{5727}
+{5728}
+{5729}
